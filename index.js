@@ -1,4 +1,11 @@
 
+/**
+ * Convert string into bits.
+ *
+ * @param {String} str
+ * @return {String} binary
+ * @api public
+ */
 
 module.exports = str => {
   var output = ''

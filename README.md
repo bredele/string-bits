@@ -1,2 +1,2 @@
 # string-bits
-Convert string into bits
+Convert string (ASCII characters) into bits
